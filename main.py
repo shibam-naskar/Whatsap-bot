@@ -22,7 +22,7 @@ driver.get("https://web.whatsapp.com/")
 url = "https://corona-virus-world-and-india-data.p.rapidapi.com/api_india"
 
 headers = {
-    'x-rapidapi-key': "740d2467acmshef1446e20d79861p16ed12jsn18c35912f27c",
+    'x-rapidapi-key': "<APIKEY>",
     'x-rapidapi-host': "corona-virus-world-and-india-data.p.rapidapi.com"
     }
 
