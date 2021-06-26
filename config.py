@@ -1,0 +1,1 @@
+CHROME_OROFILE_PATH = "user-data-dir=/home/shibam/.config/google-chrome/whatsap"
